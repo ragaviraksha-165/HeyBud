@@ -1,17 +1,103 @@
-# schoola_buddy
+# 🤖 HeyBud
 
-A new Flutter project.
+> **An AI-powered Campus Companion built with Flutter to simplify student life through smart automation, AI assistance, and campus services.**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 About the Project
 
-A few resources to get you started if this is your first Flutter project:
+HeyBud is a smart mobile application designed to make campus life easier by bringing essential student services into one platform. From AI assistance to event updates and notifications, HeyBud helps students stay connected, informed, and productive.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Hey-Buddy" 
+## ✨ Features
+
+- 🤖 AI Chat Assistant
+-📍 Campus Navigation
+- 🤖 AI Study Assistant
+- 📅 Smart Timetable Planner
+- 🎓 Arcade Stationary Crowd Monitoring
+- 💬 Community Forum
+- 📢 Lost & Found Portal
+- 🍽️ Smart Canteen Ordering
+
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Frontend
+- Flutter
+- Dart
+
+### 🤖 AI
+- Google Gemini API
+- DeepSeek API
+
+### ☁️ Backend & Cloud
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+
+### 🧰 Tools
+- VS Code
+- Android Studio
+- Git
+- GitHub
+- Postman
+- Figma
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── screens/
+├── services/
+├── widgets/
+├── providers/
+└── main.dart
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/ragaviraksha-165/HeyBud.git
+```
+
+### Navigate to the Project
+
+```bash
+cd HeyBud
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the Application
+
+```bash
+flutter run
+```
+
+---
+
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ the repository!
+
+---
+
+<p align="center">
+Made with using Flutter & AI
+</p>
